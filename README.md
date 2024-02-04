@@ -1,4 +1,5 @@
-#Keyboard instructions
+## Keyboard instructions
+
 — Before you start generating raise your hand in-front of the camera and wait until the hand mode with the green dots is loaded.
 — Press “a” to generate a rectangle with text content in it.
 — Press “s” to toggle text mode, image mode and empty mode (generates empty rectangle).
