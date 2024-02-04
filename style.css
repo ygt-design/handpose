@@ -1,0 +1,18 @@
+body{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: 1fr 1fr;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(23, 23, 23);
+  overflow: hidden;
+}
+
+#sketch{
+  position: absolute;
+  top: 28%;
+  left: 28%;
+  transform: (50%, 50%);
+  border: 2px solid rgb(0, 255, 0);
+}
